@@ -1,0 +1,28 @@
+{
+  "name": "vue_studying_douyu",
+  "version": "1.0.0",
+  "description": "This project bases on [XuShuai](https://github.com/xugy0926)'s teaching on douyu.",
+  "main": "no entry point required.",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzjqt76zfqzx/vue_studying_douyu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzjqt76zfqzx/vue_studying_douyu/issues"
+  },
+  "homepage": "https://github.com/qzjqt76zfqzx/vue_studying_douyu#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
